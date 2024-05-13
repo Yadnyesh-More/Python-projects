@@ -7,8 +7,10 @@
   
 2) ROCK PAPER SCICCORS GAME :
    * The Rock Paper Sciccors Game is design by using python customtkinter module
-   * User friendly gui
    * We Can See The Score Of User and Computer
+   * For Each Round winner get 10 Points
+   * Restart, Next Round and Exit features are Present
+      
 3) Countdown Timer :
    * Countdown Timer is also design by using customtkinter module
    * We have To Enter Seconds To Start Countdown Timer
