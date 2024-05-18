@@ -20,4 +20,4 @@
    * Qr Code encoder and decoder design using Custometkinter Module
    * Qr Encoder Generate a Qr code on what user entered into text box
    * Qr Decoder ask user to enter the Qr code image to decode and show the Decoded Text in TextBox
-   * Easy To Use  
+   * Few Qr code Images are also there in File to reference How Qr code generated 
